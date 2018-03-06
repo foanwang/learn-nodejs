@@ -1,0 +1,22 @@
+{
+  "name": "shopback-calculator",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "shopback-calculator.js",
+  "scripts": {
+    "test": "calculatortest"
+  },
+  "author": "foan.wang",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "jsonfile": "^4.0.0",
+    "openurl": "^1.1.1",
+    "opn": "^5.1.0",
+    "shelljs": "^0.7.8"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "should": "^13.1.2"
+  }
+}

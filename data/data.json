@@ -1,0 +1,39 @@
+{
+	"signup":
+		{	
+			"show":"true",
+			"calculation":"false",
+			"direction":"false",
+			"title":"Award bonus:",
+			"www.shopback.sg":"SGD 5",
+			"www.shopback.my":"MYR 10",
+			"www.shopback.co.id":"IDR 25.000",
+			"www.shopback.com.tw":"TWD 1000",
+			"www.myshopback.co.th":"THB 500",
+			"www.myshopback.com":"USD 5"
+		},
+	"spend":{	
+				"show":"false",
+				"calculation":"true",
+				"direction":"false",
+				"title":"Award cashback:",
+				"single":["20","0.15","50","0.2"],
+				"multiple":["10","0.1"],
+				"other":"0.05",
+				"0":"No cashback"
+		},
+	"redeem":
+		{	
+			"show":"true",
+			"calculation":"false",
+			"direction":"true",
+			"title":"Visit:",
+			"www.shopback.sg":"https://www.shopback.sg",
+			"www.shopback.my":"https://www.shopback.my",
+			"www.shopback.co.id":"https://www.shopback.co.id",
+			"www.shopback.com.tw":"https://www.shopback.com.tw",
+			"www.myshopback.co.th":"https://www.myshopback.co.th",	
+			"www.myshopback.com":"https://www.myshopback.com"
+		}
+
+}
